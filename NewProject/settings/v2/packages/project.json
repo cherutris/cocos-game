@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "width": 600,
+      "height": 1000,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "layer": [
+    {
+      "name": "person",
+      "value": 65536
+    }
+  ]
+}
